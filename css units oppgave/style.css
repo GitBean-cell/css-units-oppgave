@@ -1,0 +1,165 @@
+#hone
+{
+    background-color: rgb(197, 148, 87);
+    flex-grow: 1;
+    height: 200px;
+    display: flex;
+    font-size: 1em;
+}
+#hane
+{
+    background-color: rgb(178, 131, 87);
+    flex-grow: 1;
+    height: 200px;
+    display: flex;
+}
+#hei
+{
+    background-color: rgb(96, 157, 210);
+    flex-grow: 1;
+    height: 200px;
+    display: flex;
+    font-size: 3ex;
+}
+#hade
+{
+    background-color: rgb(75, 128, 171);
+    flex-grow: 1;
+    height: 200px;
+    display: flex;
+    
+}
+#Gi
+{
+    background-color:deeppink;
+    flex-grow: 1;
+    height: 200px;
+}
+#Ta
+{
+    background-color: deepskyblue;
+    flex-grow: 1;
+    height: 200px;
+    font-size: 3ch;
+}
+#Ja
+{
+    background-color: violet;
+    flex-grow: 1;
+    height: 200px;
+    font-size: 3rem;
+}
+#Nei
+{
+    background-color: rgb(255, 32, 255);
+    flex-grow: 1;
+    height: 200px;
+}
+#Eple
+{
+    background-color: rgb(255, 57, 97);
+    flex-grow: 1;
+    height: 200px;
+    font-size: 3vw;
+}
+#Banan
+{
+    background-color: rgb(255, 78, 78);
+    flex-grow: 1;
+    height: 200px;
+}
+#Butter
+{
+    background-color: rgb(211, 144, 238);
+    flex-grow: 1;
+    height: 200px;
+    font-size: 3vh ;
+}
+#Yuko
+{
+    background-color: rgb(172, 0, 252);
+    flex-grow: 1;
+    height: 200px;
+    
+}
+#dilly
+{
+    background-color: cadetblue;
+    flex-grow: 1;
+    height: 200px;
+    font-size: 3vmin;
+}
+#dally
+{
+    background-color: lightblue ;
+    flex-grow: 1;
+    height: 200px;
+}
+#Silly
+{
+    background-color: rgb(108, 108, 255);
+    flex-grow: 1;
+    height: 200px;
+    font-size: 3vmax;
+}
+#Billy
+{
+    background-color: rgb(111, 154, 230);
+    flex-grow: 1;
+    height: 200px;
+}
+#Joker
+{
+    background-color: rgb(101, 255, 66);
+    flex-grow: 1;
+    height: 200px;
+    font-size: 120%;
+}
+#Batman
+{
+    background-color: rgb(35, 201, 46);
+    flex-grow: 1;
+    height: 200px;
+}
+body
+{
+    display: flex;
+    flex-direction: row;
+    
+}
+#A
+{
+    width: 700px;
+}
+#B
+{
+    width: 700px;
+}
+#C
+{
+    width: 700px;
+}
+#D
+{
+    width: 700px;
+}
+#E
+{
+    width: 700px;
+}
+#F
+{
+    width: 700px;
+}
+#G
+{
+    width: 700px;
+}
+#H
+{
+    width: 700px;
+}
+#I
+{
+    width: 700px;
+}
